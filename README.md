@@ -7,7 +7,7 @@ Charles Beck
  
  Project 5: Image viewer
  
- To run the file you can run the makefile and then use the patters
+ To run the file you can run the makefile and then use the following pattern
  
  ezview input.ppm
  
