@@ -1,4 +1,4 @@
-# CS430_Project5
+# Ray-Tracer, CS430_Project5
 Image Viewer
 
 Charles Beck
